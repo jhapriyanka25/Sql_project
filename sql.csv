@@ -1,0 +1,95 @@
+Name,year,selling_price,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats
+" Maruti Alto 800 LXI Opt",2023,410000,10000,Petrol,Individual," Manual","First Owner","19.03 kmpl","999 CC",71.01bhp,96Nm,5
+" Skoda Slavia 1.0 TSI Ambition",2023,1350000,10000,Petrol,Individual," Manual","First Owner","14.08 kmpl","1956 CC",167.67bhp,350nm,5
+" BMW 3 Series Gran Limousine 320Ld Luxury Line",2023,5800000,1000,Diesel,Dealer," Automatic","First Owner","18.15 kmpl","998 CC",118.35bhp,172Nm,5
+" MG ZS EV Exclusive",2023,2650000,10000,Electric,Dealer," Automatic","First Owner","32.52 kmpl","998 CC",58.33bhp,78Nm,5
+" Tata Punch Adventure",2023,715000,10000,Petrol,Individual," Manual","First Owner","12.15 kmpl","1451 CC",141bhp,250Nm,5
+" Maruti S-Presso VXi Plus",2023,450000,30171,Petrol,Individual," Manual","First Owner","19.03 kmpl","999 CC",71.01bhp,96Nm,5
+" Maruti S-Presso LXi",2022,425000,1994,Petrol,Dealer," Manual","First Owner","19.47 kmpl","999 CC",113.98bhp,178Nm,5
+" Hyundai Creta SX Turbo",2022,1895000,22000,Petrol,Individual," Automatic","First Owner","12.15 kmpl","1997 CC",296.3bhp,400Nm,5
+" Renault Kiger RXT AMT Opt DT",2022,842000,6424,Petrol,Individual," Automatic","First Owner","14.08 kmpl","1956 CC",167.67bhp,350nm,5
+" Renault KWID CLIMBER",2022,567000,5148,Petrol,Dealer," Manual","First Owner","18.15 kmpl","998 CC",118.35bhp,172Nm,5
+" Mahindra XUV300 W8 Diesel Sunroof",2022,1197000,5030,Diesel,Individual," Manual","Second Owner","32.52 kmpl","998 CC",58.33bhp,78Nm,5
+" Mahindra XUV700 AX5 Diesel AT",2022,2275000,28000,Diesel,Individual," Automatic","First Owner","12.15 kmpl","1451 CC",141bhp,250Nm,5
+" Renault Triber RXT",2022,800000,10000,Petrol,Individual," Manual","Second Owner","21.01 kmpl","1197 CC",81.80bhp,113Nm,5
+" Hyundai Creta SX Diesel AT",2021,1950000,8000,Diesel,Individual," Automatic","First Owner","13.38 kmpl","2993 CC","265 bhp","620Nm@ 1500-2500rpm",5
+" Renault KWID CLIMBER",2021,567000,5868,Petrol,Individual," Manual","First Owner","18.15 kmpl","998 CC",118.35bhp,172Nm,5
+" Nissan Magnite XV Premium",2021,850000,2963,Petrol,Individual," Manual","First Owner","32.52 kmpl","998 CC",58.33bhp,78Nm,5
+" Renault Triber RXZ",2021,785000,11192,Petrol,Individual," Manual","Second Owner","12.15 kmpl","1451 CC",141bhp,250Nm,5
+" Hyundai Tucson Platinum AT",2021,2975000,3600,Petrol,Dealer," Automatic","First Owner","21.01 kmpl","1197 CC",81.80bhp,113Nm,5
+" Maruti Alto 800 LXI Opt",2021,358000,29751,Petrol,Dealer," Manual","First Owner","19.03 kmpl","999 CC",71.01bhp,96Nm,5
+" Hyundai i20 Sportz Diesel",2021,977000,13522,Diesel,Individual," Manual","First Owner","18.15 kmpl","2198 CC",182.38bhp,450Nm,5
+"BMW X7 xDrive 30d DPE",2020,7200000,5000,Diesel,Individual,Automatic,"First Owner","13.38 kmpl","2993 CC","265 bhp","620Nm@ 1500-2500rpm",7
+"Datsun GO T Option",2020,450000,10000,Petrol,Individual,Manual,"First Owner","19.02 kmpl","1198 CC","67.05 bhp","104Nm@ 4000rpm",5
+"Datsun RediGO 1.0 S",2020,350000,2136,Petrol,Individual,Manual,"First Owner","22.5 kmpl","999 CC","67 bhp","91Nm@ 4250rpm",5
+"Ford Freestyle Titanium Petrol BSIV",2020,400000,5000,Petrol,Individual,Manual,"Second Owner","19.0 kmpl","1194 CC","94.68 bhp","120Nm@ 4250rpm",5
+"Honda Civic ZX Diesel BSIV",2020,2125000,5500,Diesel,Dealer,Manual,"First Owner","26.8 kmpl","1597 CC","118 bhp","300Nm@ 2000rpm",5
+"Honda Civic ZX Diesel BSIV",2020,2125000,5500,Diesel,Dealer,Manual,"First Owner","26.8 kmpl","1597 CC","118 bhp","300Nm@ 2000rpm",5
+"Hyundai Creta 1.4 EX Diesel",2020,1050000,20000,Diesel,Individual,Manual,"First Owner","22.1 kmpl","1396 CC","88.7 bhp","219.7Nm@ 1500-2750rpm",5
+"Hyundai Creta 1.6 CRDi AT SX Plus",2020,1950000,2700,Diesel,Dealer,Automatic,"First Owner","17.01 kmpl","1582 CC","126.2 bhp","259.9Nm@ 1900-2750rpm",5
+"Hyundai Elite i20 Sportz Plus BSIV",2020,720000,5000,Petrol,Individual,Manual,"First Owner","18.6 kmpl","1197 CC","81.86 bhp","117nm@ 4000rpm",5
+"Hyundai Grand i10 Nios AMT Sportz",2020,675000,5000,Petrol,Individual,Automatic,"First Owner","20.7 kmpl","1197 CC","81.86 bhp","113.75Nm@ 4000rpm",5
+"Hyundai Grand i10 Nios Sportz",2020,775000,2000,Petrol,Dealer,Manual,"First Owner","20.7 kmpl","1197 CC","81.86 bhp","113.75Nm@ 4000rpm",5
+"Hyundai Grand i10 Sportz",2020,330000,70000,Petrol,Individual,Manual,"Second Owner","18.9 kmpl","1197 CC","81.86 bhp","113.75nm@ 4000rpm",5
+"Hyundai Santro Magna",2020,500000,1000,Petrol,Individual,Manual,"First Owner","20.3 kmpl","1086 CC","68.07 bhp","99.07Nm@ 4500rpm",5
+"Hyundai Xcent 1.2 VTVT E",2020,360000,65000,Petrol,Individual,Manual,"Second Owner","20.14 kmpl","1197 CC","81.86 bhp","113.75nm@ 4000rpm",5
+"Hyundai Xcent 1.2 VTVT SX",2020,524000,32000,Petrol,Individual,Manual,"First Owner","20.14 kmpl","1197 CC","81.86 bhp","113.75nm@ 4000rpm",5
+"Hyundai Xcent 1.2 VTVT SX",2020,524000,32000,Petrol,Individual,Manual,"First Owner","20.14 kmpl","1197 CC","81.86 bhp","113.75nm@ 4000rpm",5
+"Kia Seltos HTX Plus AT D",2020,1900000,5000,Diesel,Dealer,Automatic,"First Owner","17.8 kmpl","1493 CC","113.4 bhp","250nm@ 1500-2750rpm",5
+"Kia Seltos HTX Plus AT D",2020,1900000,5000,Diesel,Dealer,Automatic,"First Owner","17.8 kmpl","1493 CC","113.4 bhp","250nm@ 1500-2750rpm",5
+"Mahindra Bolero Pik-Up FB 1.7T",2020,679000,5000,Diesel,Individual,Manual,"First Owner","0.0 kmpl","2523 CC","70 bhp","200Nm@ 1400-2200rpm",2
+"Mahindra KUV 100 D75 K6 Plus",2020,480000,44665,Diesel,Individual,Manual,"First Owner","25.32 kmpl","1198 CC","77 bhp","190Nm@ 1750-2250rpm",6
+"Mahindra KUV 100 D75 K8",2020,550000,60000,Diesel,Individual,Manual,"First Owner","25.32 kmpl","1198 CC","77 bhp","190Nm@ 1750-2250rpm",6
+"Mahindra Scorpio S11 4WD BSIV",2020,1500000,50000,Diesel,Individual,Manual,"First Owner","16.36 kmpl","2179 CC","140 bhp","320Nm@ 1500-2800rpm",7
+"Mahindra XUV500 W7",2020,830000,120000,Diesel,Individual,Manual,"First Owner","15.1 kmpl","2179 CC","152.87 bhp","360Nm@ 1750-2800rpm",7
+"Maruti Alto 800 LXI",2020,350000,5000,Petrol,Individual,Manual,"First Owner","22.05 kmpl","796 CC","47.3 bhp","69Nm@ 3500rpm",5
+"Maruti Alto 800 LXI",2020,350000,5000,Petrol,Individual,Manual,"First Owner","22.05 kmpl","796 CC","47.3 bhp","69Nm@ 3500rpm",5
+"Maruti Alto 800 LXI CNG",2020,370000,16000,CNG,Individual,Manual,"First Owner","33.0 km/kg","796 CC","47.3 bhp","69Nm@ 3500rpm",5
+"Maruti Alto 800 VXI",2020,250999,30000,Petrol,Individual,Manual,"First Owner","22.05 kmpl","796 CC","47.3 bhp","69Nm@ 3500rpm",5
+"Maruti Alto 800 VXI",2020,360000,5000,Petrol,Individual,Manual,"First Owner","22.05 kmpl","796 CC","47.3 bhp","69Nm@ 3500rpm",5
+"Maruti Alto 800 VXI Plus",2020,370000,15000,Petrol,Individual,Manual,"First Owner","22.05 kmpl","796 CC","47.3 bhp","69Nm@ 3500rpm",5
+"Maruti Alto K10 VXI",2020,390000,6000,Petrol,Individual,Manual,"First Owner","23.95 kmpl","998 CC","67.05 bhp","90Nm@ 3500rpm",5
+"Maruti Baleno Alpha",2020,749000,5500,Petrol,Individual,Manual,"First Owner","21.01 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Baleno Delta",2020,630000,5000,Petrol,Individual,Manual,"First Owner","21.01 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Baleno Delta",2020,650000,7300,Petrol,Individual,Manual,"First Owner","21.01 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Celerio VXI",2020,475000,13000,Petrol,Individual,Manual,"First Owner","21.63 kmpl","998 CC","67.04 bhp","90Nm@ 3500rpm",5
+"Maruti Celerio X ZXI",2020,250000,120000,Petrol,Individual,Manual,"Second Owner","21.63 kmpl","998 CC","67 bhp","90Nm@ 3500rpm",5
+"Maruti Celerio ZXI",2020,420000,25000,Petrol,Individual,Manual,"First Owner","21.63 kmpl","998 CC","67.04 bhp","90Nm@ 3500rpm",5
+"Maruti Dzire LXI",2020,550000,15000,Petrol,Individual,Manual,"First Owner","23.26 kmpl","1197 CC","88.50 bhp","113nm@ 4400rpm",5
+"Maruti Dzire VXI",2020,580000,70000,Petrol,Individual,Manual,"First Owner","23.26 kmpl","1197 CC","88.50 bhp","113nm@ 4400rpm",5
+"Maruti Dzire ZXI",2020,700000,20000,Petrol,Individual,Manual,"First Owner","23.26 kmpl","1197 CC","88.50 bhp","113nm@ 4400rpm",5
+"Maruti Eeco 5 Seater AC BSIV",2020,415000,15000,Petrol,Individual,Manual,"First Owner","15.37 kmpl","1196 CC","73 bhp","101Nm@ 3000rpm",5
+"Maruti Eeco CNG 5 Seater AC",2020,409999,35000,CNG,Individual,Manual,"First Owner","20.88 km/kg","1196 CC","61.7 bhp","85Nm@ 3000rpm",5
+"Maruti Eeco CNG 5 Seater AC BSIV",2020,399000,5000,CNG,Individual,Manual,"First Owner","21.94 km/kg","1196 CC","61.7 bhp","85Nm@ 3000rpm",5
+"Maruti Ignis Zeta AMT",2020,600000,5000,Petrol,Individual,Automatic,"First Owner","20.89 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Ignis Zeta AMT",2020,600000,5000,Petrol,Individual,Automatic,"First Owner","20.89 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Swift AMT VXI",2020,654000,1000,Petrol,Individual,Automatic,"First Owner","21.21 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Swift Dzire VXI 1.2",2020,730000,1500,Petrol,Individual,Manual,"First Owner","21.21 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Swift LXI",2020,445000,1000,Petrol,Individual,Manual,"First Owner","21.21 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Swift LXI",2020,445000,1000,Petrol,Individual,Manual,"First Owner","21.21 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Swift VXI",2020,570000,5000,Petrol,Individual,Manual,"First Owner","21.21 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Swift VXI",2020,600000,5000,Petrol,Individual,Manual,"First Owner","21.21 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Swift VXI",2020,600000,5000,Petrol,Individual,Manual,"First Owner","21.21 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Swift ZXI Plus",2020,578000,5000,Petrol,Individual,Manual,"First Owner","21.21 kmpl","1197 CC","81.80 bhp","113Nm@ 4200rpm",5
+"Maruti Vitara Brezza VDi",2020,810000,15000,Diesel,Individual,Manual,"First Owner","24.3 kmpl","1248 CC","88.5 bhp","200Nm@ 1750rpm",5
+"Maruti Vitara Brezza ZDi AMT",2020,925000,7400,Diesel,Individual,Automatic,"First Owner","24.3 kmpl","1248 CC","88.5 bhp","200Nm@ 1750rpm",5
+"Maruti Vitara Brezza ZXI Plus AT Dual Tone",2020,737000,10000,Petrol,Individual,Automatic,"First Owner","18.76 kmpl","1462 CC","103.26 bhp","138nm@ 4400rpm",5
+"Maruti Wagon R LXI",2020,265000,70000,Petrol,Individual,Manual,"Second Owner","21.79 kmpl","998 CC","67.05 bhp","90Nm@ 3500rpm",5
+"MG Hector Sharp DCT Dualtone",2020,1900000,1600,Petrol,Dealer,Automatic,"First Owner","13.96 kmpl","1451 CC","141 bhp","250Nm@ 1600-3600rpm",5
+"Tata Harrier XZ Plus",2020,1650000,16000,Diesel,Dealer,Manual,"First Owner","17.0 kmpl","1956 CC","167.67 bhp","350Nm@ 1750-2500rpm",5
+"Tata Nexon 1.2 Revotron XM",2020,537000,5000,Petrol,Individual,Manual,"First Owner","17.0 kmpl","1198 CC","108.5 bhp","170Nm@ 1750-4000rpm",5
+"Tata Nexon 1.2 Revotron XZ Plus",2020,919999,20000,Petrol,Individual,Manual,"First Owner","17.0 kmpl","1198 CC","108.5 bhp","170Nm@ 1750-4000rpm",5
+"Tata Nexon 1.2 Revotron XZA Plus",2020,950000,5000,Petrol,Individual,Automatic,"First Owner","17.0 kmpl","1198 CC","108.5 bhp","170Nm@ 1750-4000rpm",5
+"Tata Tiago 2019-2020 XZ",2020,500000,15000,Petrol,Individual,Manual,"First Owner","23.84 kmpl","1199 CC","83.83 bhp","114Nm@ 3500rpm",5
+"Tata Zest Revotron 1.2 XT",2020,500000,40000,Petrol,Individual,Manual,"First Owner","17.57 kmpl","1193 CC","88.7 bhp","140Nm@ 1500-4000rpm",5
+"Tata Zest Revotron 1.2 XT",2020,500000,40000,Petrol,Individual,Manual,"First Owner","17.57 kmpl","1193 CC","88.7 bhp","140Nm@ 1500-4000rpm",5
+"Tata Zest Revotron 1.2 XT",2020,500000,40000,Petrol,Individual,Manual,"First Owner","17.57 kmpl","1193 CC","88.7 bhp","140Nm@ 1500-4000rpm",5
+"Tata Zest Revotron 1.2 XT",2020,500000,40000,Petrol,Individual,Manual,"First Owner","17.57 kmpl","1193 CC","88.7 bhp","140Nm@ 1500-4000rpm",5
+"Toyota Fortuner 2.8 4WD AT BSIV",2020,3200000,3000,Diesel,Individual,Automatic,"First Owner","15.04 kmpl","2755 CC","174.5 bhp","450Nm@ 1600-2400rpm",7
+"Toyota Innova Crysta 2.4 G MT 8 STR",2020,1560000,20102,Diesel,Dealer,Manual,"First Owner","13.68 kmpl","2393 CC","147.51 bhp","343Nm@ 1400-2800rpm",8
+"Toyota Innova Crysta 2.4 ZX AT",2020,2300000,1000,Diesel,Individual,Automatic,"First Owner","13.68 kmpl","2393 CC","147.51 bhp","360Nm@ 1400-2600rpm",7
+"Toyota Innova Crysta 2.7 GX AT 8 STR",2020,1500000,40000,Petrol,Individual,Automatic,"First Owner","10.75 kmpl","2694 CC","163.7 bhp","245Nm@ 4000rpm",8
+"Toyota Innova Crysta 2.7 GX AT 8 STR",2020,1500000,40000,Petrol,Individual,Automatic,"First Owner","10.75 kmpl","2694 CC","163.7 bhp","245Nm@ 4000rpm",8
+"Volkswagen Ameo 1.5 TDI Comfortline",2020,800000,25000,Diesel,Individual,Manual,"First Owner","21.66 kmpl","1498 CC","108.62 bhp","250Nm@ 1500-3000rpm",5
+"Volkswagen Polo 1.0 TSI Highline Plus",2020,808000,5000,Petrol,Individual,Manual,"First Owner","18.24 kmpl","999 CC","108.6 bhp","175nm@ 1750-4000rpm",5
+"Volkswagen Polo 1.5 TDI Comfortline",2020,260000,50000,Diesel,Individual,Manual,"First Owner","20.14 kmpl","1498 CC","88.5 bhp","230Nm@ 1500-2500rpm",5
